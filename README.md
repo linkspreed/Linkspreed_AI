@@ -13,44 +13,81 @@
 
 ## Features
 
-**DASHBOARD** – Get an overview of your account and your tracked websites.
+- **DASHBOARD** – Get an account overview, with quick access to the most popular templats, latest documents, and latest images.
 
-**STATS** – Get specific statistics & analytics reports for a website:
-- Realtime
-- Overview
-- Behavior
-    - Pages
-    - Landing pages
-    
--Acquisitions
-    - Referrers
-    - Search engines
-    - Social networks
-    - Campaigns
-    
-- Geographic
-    - Continents
-    - Countries
-    - Cities
-    - Languages
-    
-- Technology
-    - Operating systems
-    - Browsers
-    - Screen resolutions
-    - Devices
-    
-- Events
+- **TEMPLATES** – Create content with over 50+ templates:
 
-**EXPORT** – Export your statistics & analytics reports in CSV format.
+**Content**
+- **Article**
+   - Blog intro
+   - Blog listicle
+   - Blog outline
+   - Blog outro
+   - Blog paragraph
+   - Blog post
+   - Blog section
+   - Blog tags
+   - Blog talking point
+   - Blog title
+   - Content grammar
+   - Content rewrite
+   - Content summary
+   - Paragraph
+- **Website**
+   - About us
+   - Call to action
+   - FAQ
+   - Feature section
+   - Headline
+   - How it works
+   - Meta description
+   - Meta keywords
+   - Pros and cons
+   - Review
+   - Subheadline
+   - Testimonial
+- **Marketing**
+   - Advertisement
+   - Facebook advertisement
+   - Google advertisement
+   - Job description
+   - Mission statement
+   - Newsletter
+   - Pain-Agitate-Solution
+   - Press release
+   - Product sheet
+   - Push notification
+   - Startup ideas
+   - Startup names
+   - Value proposition
+   - Vision statement
+   - Welcome email
+- **Social**
+   - Hashtags
+   - Social post
+   - Social post caption
+   - Tweet
+   - Twitter thread
+   - Video description
+   - Video script
+   - Video tags
+   - Video title
+- **Other**
+   - Freestyle
 
-**NOTIFICATIONS** – Get periodic emails about your websites performance.
+- **DOCUMENTS** – Create and organize your documents. Manage your documents through favorites and filters.
 
-**AND SO MUCH MORE ...**
+- **IMAGES** – Generate images using various parameters, such as style, medium, filters, and resolutions.
+
+- **CHATS** – Chat with the AI in real time.
+
+- **EXPORT** – Export your Documents in CSV format.
+
+- **AND SO MUCH MORE ...**
 
 ## More
  
-Analytix is **free**, **real-time** and with **unlimited** resources 
+Linkspreed AI is **free**, **real-time** and with **unlimited** resources 
 for developers around the world.
 
 Our focus is on **usability** and **security** 
@@ -61,7 +98,7 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy Analytix freely and use all features to an unlimited extent.
+ You can enjoy Linkspreed AI freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
