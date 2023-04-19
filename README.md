@@ -103,17 +103,17 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 ## ðŸ“· UI
 
 
-### Privacy focused web analytics
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/1.PNG" draggable="false" />
+### Welcome
+<img align="center" alt="Linkspreed AI" width="3000px" src="https://github.com/linkspreed/Linkspreed_AI/blob/main/Screenshots/1.png" draggable="false" />
 
-### Analytics
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/2.PNG" draggable="false" />
+### Documents
+<img align="center" alt="Linkspreed AI" width="3000px" src="https://github.com/linkspreed/Linkspreed_AI/blob/main/Screenshots/2.png" draggable="false" />
 
-### Register now
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/3.PNG" draggable="false" />
+### How it works
+<img align="center" alt="Linkspreed AI" width="3000px" src="https://github.com/linkspreed/Linkspreed_AI/blob/main/Screenshots/3.png" draggable="false" />
 
-### Dashboard
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/4.PNG" draggable="false" />
+### Templates
+<img align="center" alt="Linkspreed AI" width="3000px" src="https://github.com/linkspreed/Linkspreed_AI/blob/main/Screenshots/4.png" draggable="false" />
 
-### Add a new website
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/5.PNG" draggable="false" />
+### Get started
+<img align="center" alt="Linkspreed AI" width="3000px" src="https://github.com/linkspreed/Linkspreed_AI/blob/main/Screenshots/5.png" draggable="false" />
