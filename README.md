@@ -1,11 +1,9 @@
-# <img align="left" alt="Analytix" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/)) (v3.6.1)
+# <img align="left" alt="Linkspreed AI" width="40px" src="https://ai.linkspreed.com/uploads/brand/XdMXae48uITzWoTNyq7BjkqVAzvMaT1rRv3ST1U4.png" draggable="false" /> Linkspreed AI ([Click to try 🚀](https://ai.linkspreed.com/)) (v1.3.0)
 
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
+🚀🤖🧠🌐 Linkspreed AI: A cutting-edge artificial intelligence project on Github that promises to revolutionize the way we interact, learn and navigate the internet.
 
-
-
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog 🧠](https://github.com/linkspreed/Linkspreed_AI/blob/main/changelog.md)** **Check out the full Linkspreed AI changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Linkspreed_AI/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Linkspreed AI besides development**
 
 
 <div align="center">
