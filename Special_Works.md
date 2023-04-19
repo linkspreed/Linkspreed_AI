@@ -1,4 +1,8 @@
 ### 19.04.2023 (announcement Linkspreed AI)
+- 📢 Check out the brand new Github Repository for Linkspreed AI! 🚀💻 Make your projects even smarter with the latest AI technology. 🤖 Start innovating today! 🌟 #LinkspreedAI #AI #Github #innovation
+https://github.com/linkspreed/Linkspreed_AI
+
+### 19.04.2023 (announcement Linkspreed AI)
 - 👀🔗 Check out the Linkspreed AI changelog: https://github.com/linkspreed/Linkspreed_AI/blob/main/changelog.md
 
 ### 19.04.2023 (announcement Linkspreed AI)
