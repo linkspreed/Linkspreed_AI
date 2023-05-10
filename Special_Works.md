@@ -1,3 +1,6 @@
+### 10.05.2023 (announcement Linkspreed AI)
+- 🚀🤖 Our team is currently putting all the effort into developing Linkspeed AI! Are you excited to see what our new project can do? #AI #innovation 💻🌟 Let us know in the comments! What features would you like to see in our new AI system? #Brainstorming 🤔
+
 ### 19.04.2023 (announcement Linkspreed AI)
 - 📢 Check out the brand new Github Repository for Linkspreed AI! 🚀💻 Make your projects even smarter with the latest AI technology. 🤖 Start innovating today! 🌟 #LinkspreedAI #AI #Github #innovation
 https://github.com/linkspreed/Linkspreed_AI
