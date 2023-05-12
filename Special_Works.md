@@ -1,3 +1,6 @@
+### 12.05.2023 (announcement Linkspreed AI)
+- 🚀 We're putting the finishing touches on Linkspreed AI before launch! 🔥 Who's excited to see how our AI-powered platform will revolutionize the way we work? 🤖 #LinkspreedAI #AI #ProductLaunch #ExcitingTimes
+
 ### 10.05.2023 (announcement Linkspreed AI)
 - 🚀🤖 Our team is currently putting all the effort into developing Linkspeed AI! Are you excited to see what our new project can do? #AI #innovation 💻🌟 Let us know in the comments! What features would you like to see in our new AI system? #Brainstorming 🤔
 
